@@ -42,3 +42,5 @@ ninja.atacar();
 
 let personagemDesconhecido = new Heroi("Zé Ninguém", 20, "arqueiro");
 personagemDesconhecido.atacar();
+
+// arquivo usado para teste de autentica usando SSH (Formação Github Certification).
